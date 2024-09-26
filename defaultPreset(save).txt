@@ -1,0 +1,9 @@
+calculTestTimeNormal:3000
+lettreTestTimeNormal:2500
+calculTestTimeHard:2000
+lettreTestTimeHard:1500
+calculTestMax:11
+calculTestMin:0
+nbrGenTotal:3
+nbrItemTotal:2
+life:2

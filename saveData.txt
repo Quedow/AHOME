@@ -1,0 +1,6 @@
+---- STATISTIQUES DU JOUEUR ----
+
+Nombre total de victoires:0
+Nombre total de défaites:1
+Nombre de secondes en jeu:90
+Durée de la dernière partie:25
